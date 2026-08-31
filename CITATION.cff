@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this dataset, code, or analysis pipeline, please cite the following work."
+title: "Multivariable Influence of Process Parameters on Bead Geometry in Wire Arc Additive Manufacturing"
+authors:
+  - family-names: Ebika
+    given-names: Bathlomew
+  - family-names: Ramasamy
+    given-names: Vishnu
+  - family-names: Lewandowski
+    given-names: John
+  - family-names: Loparo
+    given-names: Kenneth A.
+  - family-names: Ekeamadi
+    given-names: Jacob
+version: "1.0.0"
+date-released: 2026-08-31
+doi: "10.XXXX/waam.process.geometry.2026"
+url: "https://github.com/EKEAMADI/WAAM-Process-Geometry"

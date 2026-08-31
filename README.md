@@ -16,7 +16,7 @@ with current approximately proportional to WFS. Beyond mean bead height and widt
 
 ---
 
-## 🔍 Key Features
+## Key Features
 
 - **Large, traceable WAAM dataset** (796 depositions)  
 - **High‑resolution profilometry** for bead height/width extraction  
@@ -28,7 +28,7 @@ with current approximately proportional to WFS. Beyond mean bead height and widt
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```
 /WAAM-dataset/
@@ -64,7 +64,7 @@ with current approximately proportional to WFS. Beyond mean bead height and widt
 
 ---
 
-## 🧠 Scientific Summary
+## Scientific Summary
 
 The dataset demonstrates that bead geometry and stability arise from **nonlinear interactions** among V, WFS, TS, and CTWD. Key findings include:
 
@@ -78,7 +78,7 @@ The dataset demonstrates that bead geometry and stability arise from **nonlinear
 
 ---
 
-## 📊 Example Results
+## Example Results
 
 Representative conditions (V = 12 V, TS = 150 mm/min, n = 0.8):
 
@@ -90,7 +90,7 @@ These trends highlight the importance of **material‑aware parameter selection*
 
 ---
 
-## 📦 Data & Code Availability
+## Data & Code Availability
 
 This repository includes:
 
@@ -102,7 +102,7 @@ This repository includes:
 
 ---
 
-## 🚀 Applications
+## Applications
 
 - WAAM process optimization  
 - Physics‑informed machine learning  
@@ -113,7 +113,7 @@ This repository includes:
 
 ---
 
-## 📚 Citation
+## Citation
 
 If you use this dataset or analysis pipeline, please cite:
 
@@ -128,15 +128,5 @@ Ebika, B., Ramasamy, V., Lewandowski, J., Loparo, K., & Ekeamadi, J.
 ## 🔧 Contact
 
 For questions or collaboration inquiries, please contact:  
-**EKEAMADI** — Case Western Reserve University
+**BATHLOMEW EBIKA** — Case Western Reserve University
 
----
-
-If you want, I can also generate:
-
-- **CITATION.cff**  
-- **LICENSE file**  
-- **Zenodo DOI metadata**  
-- **GitHub project banner**  
-
-Just tell me what you want next.
